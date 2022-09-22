@@ -26,7 +26,7 @@ fn main() {
     // let cmp = natural();
     if guessed_number == n1
     {
-        println!("You WIn!!!");
+        println!("You Win!!!");
     }
     else
     {
